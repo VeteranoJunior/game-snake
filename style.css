@@ -1,0 +1,14 @@
+body{
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./images/backgroundSnakeElevator.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+  color: rgb(52, 165, 52);
+}
